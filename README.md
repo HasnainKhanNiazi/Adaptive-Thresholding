@@ -1,2 +1,9 @@
 # Adaptive-Thresholding
-This repository includes the implementation of adaptive thresholding in Python.
+This repository includes the implementation of adaptive thresholding in Python. The implementation is from scratch and the adaptive_threshold method is the same as the original one is. Same arguments needs to be passed in order to get the better results. Moreover adaptiveMethod which includes **ADAPTIVE_THRESH_MEAN_C** and **ADAPTIVE_THRESH_GAUSSIAN_C**.
+
+### Prerequisites
+There are only two requirements which needs to be fullfilled before runnning the pythin script.
+* Python needs to be installed. Script works for all python versions but latest version is appreciated. 
+* OpenCV should be installed in System. **Only image reading and showing method is being used from the OpenCV. Rest of the implementation is from scratch**
+
+
