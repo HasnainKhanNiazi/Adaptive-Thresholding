@@ -8,7 +8,9 @@ There are only two requirements which needs to be fullfilled before runnning the
 
 ### Results
 * Following image has been used for testing the performance of adaptive_threshold.
-<img src="https://github.com/HasnainKhanNiazi/Adaptive-Thresholding/blob/master/Images/img.jpeg" width="400">
+<img align="centre" src="https://github.com/HasnainKhanNiazi/Adaptive-Thresholding/blob/master/Images/img.jpeg" width="400">
 * Below image is the output of initial image.
 <img src="https://github.com/HasnainKhanNiazi/Adaptive-Thresholding/blob/master/Images/Result.JPG" width="400">
+
+
 **Fee free to give comment about this method and please let me know how can I improve**
