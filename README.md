@@ -6,4 +6,10 @@ There are only two requirements which needs to be fullfilled before runnning the
 * Python needs to be installed. Script works for all python versions but latest version is appreciated. 
 * OpenCV should be installed in System. **Only image reading and showing method is being used from the OpenCV. Rest of the implementation is from scratch**
 
+### Results
+* Following image has been used for testing the performance of adaptive_threshold.
+![Image description](https://github.com/HasnainKhanNiazi/Adaptive-Thresholding/blob/master/Images/img.jpeg)
+* Below image is the output of initial image.
+![Image description](https://github.com/HasnainKhanNiazi/Adaptive-Thresholding/blob/master/Images/Result.JPG)
 
+**Fee free to give comment about this method and please let me know how can I improve**
